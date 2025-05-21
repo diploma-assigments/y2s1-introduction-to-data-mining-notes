@@ -1,3 +1,4 @@
+# Chapter 1 - Intro to Data Mining
 ### Why Data Mining?
 > 1. More and more data generated now from
 > - business

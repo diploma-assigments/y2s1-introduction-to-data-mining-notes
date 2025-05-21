@@ -4,7 +4,7 @@ Better version of lecture note because its ass
 
 [Chapter 2 - Data Preprocessing](Chapter%202%20-%20Data%20Preprocessing.md)
 
-Chapter 3 - Data Warehouse
+[Chapter 3 - Data Warehouse](Chapter%203%20-%20Data%20Warehouse.md)
 
 Chapter 4 - Supervised learning
 

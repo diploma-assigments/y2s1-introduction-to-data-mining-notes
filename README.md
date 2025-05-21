@@ -1,7 +1,11 @@
 Better version of lecture note because its ass
 
-[[Chapter 1 - Intro to Data Mining]]
+[Chapter 1 - Intro to Data Mining](y2s1-introduction-to-data-mining-notes/blob/Chapter 1 - Intro to Data Mining.md)
 
-[[Chapter 2 - Data Preprocessing]]
+[Chapter 2 - Data Preprocessing](y2s1-introduction-to-data-mining-notes/blob/Chapter 2 - Data Preprocessing.md)
 
-Chapter 3
+Chapter 3 - Data Warehouse
+
+Chapter 4 - Supervised learning
+
+Chapter 5 - Unsupervised learning

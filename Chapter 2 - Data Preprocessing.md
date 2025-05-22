@@ -47,15 +47,15 @@
 > 4. **Computer and human inspection:** computer detect sus values, human verify
 
 ### Aspects of data integration
-#### 1. Schema integration:
+##### 1. Schema integration:
 > table A has `cust-id`, table B has `cust-#`, different name, need to treat as same
 
-#### 2. Entity identification problem
+##### 2. Entity identification problem
 > * One dataset says "Bill Clinton"
 > * Another says "William Clinton"
 > * They are the same person, but not obvious unless you match them smartly
 
-#### 3. Data value conflict
+##### 3. Data value conflict
 > * Height from source A: `6 feet`
 > * Height frmo source B: `183cm`
 > * Both are correct, just different units
@@ -77,16 +77,16 @@
 > reduce volume of data set, produce same analytical results
 
 ### Data reduction strategies
-#### 1. Dimensionality reduction
+##### 1. Dimensionality reduction
 > wavelet transforms
 > Principal Components Analysis (PCA)
 > feature subset selection
 
-#### 2. Numerosity reduction
+##### 2. Numerosity reduction
 > regression
 > histogram, clustering
 
-#### 3. Data compression
+##### 3. Data compression
 
 ### Why dimensionality in data is bad?
 > 1. density and distance increase: clustering, outlier analysis become less meaningful
@@ -101,10 +101,10 @@
 >  3. Normalization: min-max, z-score, decimal scaling
 
 
-![[Pasted image 20250522013043.png|600]]
+![[img_c2_a.png|600]]
 
-![[Pasted image 20250522013110.png|600]]
+![[img_c2_b.png|600]]
 
-![[Pasted image 20250522013241.png|600]]
+![[img_c2_c.png|600]]
 
 

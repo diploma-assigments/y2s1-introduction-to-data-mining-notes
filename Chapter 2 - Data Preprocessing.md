@@ -101,10 +101,10 @@
 >  3. Normalization: min-max, z-score, decimal scaling
 
 
-![[img_c2_a.png|600]]
+![[images/img_c2_a.png|600]]
 
-![[img_c2_b.png|600]]
+![[images/img_c2_b.png|600]]
 
-![[img_c2_c.png|600]]
+![[images/img_c2_c.png|600]]
 
 

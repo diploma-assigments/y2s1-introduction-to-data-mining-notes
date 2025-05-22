@@ -15,7 +15,7 @@
 > - data / pattern analysis
 
 ### Knowledge Discovery (KDD) Process
->![[img_c1_a.png]]
+>![[images/img_c1_a.png]]
 
 ### Web Mining Framework
 > - Data cleaning

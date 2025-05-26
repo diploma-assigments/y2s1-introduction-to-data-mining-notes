@@ -85,13 +85,13 @@
 ### Conceptual Modeling of Data Warehouses (fancy way to say types of warehouse design)
 ##### Star Schema
 > 1 fact table in the middle, many dimension tables around it
-> ![[images/img_c3_a.png|400]]
+> ![img_c3_a.png](images/img_c3_a.png)
 ##### Snowflake Schema
 > Same as star schema, but dimension tables are normalized (like SQL normalization, breaking down table to smaller tables)
-> ![[images/img_c3_b.png|400]]
+> ![img_c3_b.png](images/img_c3_b.png)
 ##### Fact Constellation / Galaxy Schema
 > Many fact tables, many dimension tables, all sharing.
-> ![[images/img_c3_c.png|400]]
+> ![img_c3_c.png](images/img_c3_c.png)
 
 ### 4 view in data warehouse design
 ##### 1. Top-down view
